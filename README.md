@@ -52,7 +52,7 @@ Cette section est le cœur de votre pipeline CI/CD. Elle vous guidera à travers
 17. Entrez les informations suivantes : Fournisseur de déploiement=Amazon S3, Région=Votre région actuelle, Bucket=Votre bucket S3, Clé d'objet S3=clic sur "Extract file before deploy", puis cliquez sur "Next" et enfin sur "Create pipeline".
 18. Attendez que l'écran montre des signes verts pour Source et Deploy.
 
-## Phase de Test
+## Phase de test
 Cette section vous guidera à travers le processus de test de votre pipeline CI/CD.
 
 1. Ouvrez S3 dans un onglet séparé.
@@ -83,3 +83,9 @@ Dans ce projet, nous avons démontré comment déployer un pipeline d'intégrati
 ## Remerciements
 Ce tutoriel est adapté du [Tutorial: Create a pipeline that uses Amazon S3 as a deployment provider website](https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-s3deploy.html) fourni par Amazon Web Services. Nous remercions AWS pour avoir fourni cette précieuse ressource, qui a servi de base pour le tutoriel "Pipeline automatisée CI/CD avec intégration GitHub et Amazon S3".
 
+## Explorez le projet dans d'autres langues
+
+- [Anglais](https://github.com/r-ramos2/Automated-CI-CD-Pipeline-with-GitHub-and-Amazon-S3-Integration-English/blob/main/README.md) (English)
+- [Italien](https://github.com/r-ramos2/Pipeline-Automatizzato-di-CI-CD-con-Integrazione-di-GitHub-e-Amazon-S3-Italian) (Italiano)
+- [Portugais](https://github.com/r-ramos2/Pipeline-Automatizado-de-CI-CD-com-Integracao-GitHub-e-Amazon-S3-Portuguese) (Português)
+- [Espagnol](https://github.com/r-ramos2/Pipeline-Automatizado-de-CI-CD-con-Integracion-de-GitHub-y-Amazon-S3-Spanish) (Español)
